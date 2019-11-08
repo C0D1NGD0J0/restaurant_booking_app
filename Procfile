@@ -1,0 +1,1 @@
+web: gunicorn radiant-beyond-99428.wsgi --log-file -

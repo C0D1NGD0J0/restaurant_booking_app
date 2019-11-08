@@ -1,1 +1,1 @@
-web: gunicorn radiant-beyond-99428.wsgi --log-file -
+web: gunicorn rrestaurantCMS.wsgi --log-file -
